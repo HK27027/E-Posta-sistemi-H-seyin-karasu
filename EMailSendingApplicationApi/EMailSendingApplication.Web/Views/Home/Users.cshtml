@@ -1,0 +1,143 @@
+﻿<div ng-init="account.loginControl();users.multipleGet();" style="margin-top: 100px;" class="text-center">
+    <div ng-if="users.danger==true" class="alert alert-danger alert-dismissible fade show" role="alert" style="z-index:9999;">
+        <strong>Uyarı</strong>  <div ng-repeat=" t in users.dangerText.data.statusTexts"> {{t}}.</div>
+
+        <button ng-click="users.danger=false;" type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+    
+        <table class="table table-hover" >
+
+            <div class="input-group flex-nowrap">
+                <input type="text" class="form-control" placeholder="Kişi ara" ng-model="users.form.search" ng-change="users.multipleGet();" ng-model-options="{ debounce: 600 }">
+
+
+                <button class="btn border btn pirmary" title="Kişi ekle" ng-click="users.add();"><span> kişi ekle  </span></button>
+            </div>
+        <div class="alert alert-primary mt-2" role="alert" ng-if="users.list.length==0">
+            Henüz kayıt yok!
+        </div>
+        <thead ng-if="users.list.length>0">
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">İsim</th>
+                    <th scope="col">E-Posta</th>
+                    <th scope="col">Ünvan</th>
+                    <th scope="col">Şirket</th>
+                    <th scope="col">Telefon numarası</th>
+                    <th scope="col">Düzenle</th>
+                </tr>
+            </thead>
+        <tbody ng-if="users.list.length>0">
+                <tr ng-repeat="d in users.list">
+                    <th>{{$index + 1}}</th>
+                    <th>{{d.name}}</th>
+                    <th>{{d.email}}</th>
+                    <th>{{d.title}}</th>
+                    <th>{{d.companyName}}</th>
+                    <th>{{d.phoneNumber}}</th>
+                    <th>
+                        <button ng-click="users.delete(d.id);" class="btn btn-danger">Sil</button>
+                        <button ng-click="users.singleGet(d.id);" class="btn btn-success">Güncelle</button>
+                    </th>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+  
+
+
+
+
+
+<!--güncelleme Modalı -->
+<div class="modal fade" id="exampleModalupdate" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+         
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Kişi Düzenle</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form id="modalForm" >
+                    <div ng-repeat="d in users.data">
+                     
+                        <div class="form-group">
+                            <label for="name">İsim</label>
+                            <input type="text" ng-model="d.name" class="form-control" id="name" name="name" placeholder="İsim Giriniz">
+                        </div>
+                        <div class="form-group">
+                            <label for="email">E-Posta adresi</label>
+                            <input type="email" ng-model="d.email" class="form-control" id="email" name="email" placeholder="E-Posta adresi giriniz">
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Ünvan</label>
+                            <input type="text" ng-model="d.title" class="form-control" id="email" name="email" placeholder="Bir ünvan giriniz">
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Şirket</label>
+                            <input type="text" ng-model="d.companyName" class="form-control" id="email" name="email" placeholder="Şirket ismi giriniz">
+                        </div>
+
+                        <div class="form-group">
+                            <label for="email">Telefon numarası</label>
+                            <input type="text" ng-model="d.phoneNumber" class="form-control" id="email" name="email" placeholder="Telefon numarası giriniz">
+                        </div>
+                    </div>
+              
+                   
+                  
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+                <button type="button" class="btn btn-primary" ng-click="users.update();">Güncelle</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@* ekleme modalı *@
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Kişi ekle</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form id="modalForm">
+                    <div class="form-group">
+                        <label for="name">İsim</label>
+                        <input type="text" ng-model="users.form.name" class="form-control" id="name" name="name" placeholder="İsim Giriniz">
+                    </div>
+                    <div class="form-group">
+                        <label for="email">E-Posta adresi</label>
+                        <input type="email" ng-model="users.form.email" class="form-control" id="email" name="email" placeholder="E-Posta adresi giriniz">
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Ünvan</label>
+                        <input type="text" ng-model="users.form.title" class="form-control" id="email" name="email" placeholder="Bir ünvan giriniz">
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Şirket</label>
+                        <input type="text" ng-model="users.form.companyName" class="form-control" id="email" name="email" placeholder="Şirket ismi giriniz">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="email">Telefon numarası</label>
+                        <input type="text" ng-model="users.form.phoneNumber" class="form-control" id="email" name="email" placeholder="Telefon numarası giriniz">
+                    </div>
+
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+                <button type="button" class="btn btn-primary" ng-click="users.save();">kaydet</button>
+            </div>
+        </div>
+    </div>
+</div>

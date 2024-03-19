@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "EMailSendingApplicationApi\\EMailSendingApplicationApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "EMailSendingApplication.Web\\EMailSendingApplication.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

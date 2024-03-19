@@ -1,0 +1,28 @@
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Data\bin\Debug\net8.0\EMailSending.Data.deps.json
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Data\bin\Debug\net8.0\EMailSending.Data.runtimeconfig.json
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Data\bin\Debug\net8.0\EMailSending.Data.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Data\bin\Debug\net8.0\EMailSending.Data.pdb
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Data\obj\Debug\net8.0\EMailSending.Data.csproj.AssemblyReference.cache
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Data\obj\Debug\net8.0\EMailSending.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Data\obj\Debug\net8.0\EMailSending.Data.AssemblyInfoInputs.cache
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Data\obj\Debug\net8.0\EMailSending.Data.AssemblyInfo.cs
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Data\obj\Debug\net8.0\EMailSending.Data.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Data\obj\Debug\net8.0\EMailSending.Data.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Data\obj\Debug\net8.0\refint\EMailSending.Data.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Data\obj\Debug\net8.0\EMailSending.Data.pdb
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Data\obj\Debug\net8.0\EMailSending.Data.genruntimeconfig.cache
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Data\obj\Debug\net8.0\ref\EMailSending.Data.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.Data\bin\Debug\net8.0\EMailSending.Data.deps.json
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.Data\bin\Debug\net8.0\EMailSending.Data.runtimeconfig.json
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.Data\bin\Debug\net8.0\EMailSending.Data.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.Data\bin\Debug\net8.0\EMailSending.Data.pdb
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.Data\obj\Debug\net8.0\EMailSending.Data.csproj.AssemblyReference.cache
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.Data\obj\Debug\net8.0\EMailSending.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.Data\obj\Debug\net8.0\EMailSending.Data.AssemblyInfoInputs.cache
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.Data\obj\Debug\net8.0\EMailSending.Data.AssemblyInfo.cs
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.Data\obj\Debug\net8.0\EMailSending.Data.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.Data\obj\Debug\net8.0\EMailSending.Data.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.Data\obj\Debug\net8.0\refint\EMailSending.Data.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.Data\obj\Debug\net8.0\EMailSending.Data.pdb
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.Data\obj\Debug\net8.0\EMailSending.Data.genruntimeconfig.cache
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.Data\obj\Debug\net8.0\ref\EMailSending.Data.dll

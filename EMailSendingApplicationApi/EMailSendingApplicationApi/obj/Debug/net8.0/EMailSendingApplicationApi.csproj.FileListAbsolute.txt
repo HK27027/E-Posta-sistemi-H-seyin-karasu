@@ -1,0 +1,148 @@
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSendingApplicationApi.exe
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSendingApplicationApi.deps.json
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSendingApplicationApi.runtimeconfig.json
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSendingApplicationApi.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSendingApplicationApi.pdb
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\Snappier.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSending.Data.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSending.InAndOutModels.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSending.Interfaces.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSending.Repositories.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSending.Data.pdb
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSending.Interfaces.pdb
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSending.Repositories.pdb
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSending.InAndOutModels.pdb
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSendingApplicationApi.csproj.AssemblyReference.cache
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSendingApplicationApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSendingApplicationApi.AssemblyInfoInputs.cache
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSendingApplicationApi.AssemblyInfo.cs
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSendingApplicationApi.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSendingApplicationApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSendingApplicationApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\staticwebassets\msbuild.EMailSendingApplicationApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\staticwebassets\msbuild.build.EMailSendingApplicationApi.props
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EMailSendingApplicationApi.props
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EMailSendingApplicationApi.props
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\scopedcss\bundle\EMailSendingApplicationApi.styles.css
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSen.58F159D4.Up2Date
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSendingApplicationApi.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\refint\EMailSendingApplicationApi.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSendingApplicationApi.pdb
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSendingApplicationApi.genruntimeconfig.cache
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\ref\EMailSendingApplicationApi.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSendingApplicationApi.exe
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSendingApplicationApi.deps.json
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSendingApplicationApi.runtimeconfig.json
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSendingApplicationApi.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSendingApplicationApi.pdb
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\Snappier.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSending.Data.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSending.InAndOutModels.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSending.Interfaces.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSending.Repositories.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSending.Data.pdb
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSending.Interfaces.pdb
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSending.Repositories.pdb
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\bin\Debug\net8.0\EMailSending.InAndOutModels.pdb
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSendingApplicationApi.csproj.AssemblyReference.cache
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSendingApplicationApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSendingApplicationApi.AssemblyInfoInputs.cache
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSendingApplicationApi.AssemblyInfo.cs
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSendingApplicationApi.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSendingApplicationApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSendingApplicationApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\staticwebassets\msbuild.EMailSendingApplicationApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\staticwebassets\msbuild.build.EMailSendingApplicationApi.props
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EMailSendingApplicationApi.props
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EMailSendingApplicationApi.props
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\scopedcss\bundle\EMailSendingApplicationApi.styles.css
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSen.58F159D4.Up2Date
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSendingApplicationApi.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\refint\EMailSendingApplicationApi.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSendingApplicationApi.pdb
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\EMailSendingApplicationApi.genruntimeconfig.cache
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSendingApplicationApi\obj\Debug\net8.0\ref\EMailSendingApplicationApi.dll

@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="MongoDB.Bson" Version="2.24.0" />
+    <PackageReference Include="MongoDB.Driver" Version="2.24.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EMailSending.Data\EMailSending.Data.csproj" />
+    <ProjectReference Include="..\EMailSending.InAndOutModels\EMailSending.InAndOutModels.csproj" />
+  </ItemGroup>
+
+</Project>

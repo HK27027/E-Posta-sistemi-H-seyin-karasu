@@ -1,0 +1,126 @@
+﻿<div ng-init="account.loginControl();emailSent.multipleGet();" style="margin-top: 100px;" class="text-center">
+    <div ng-if="emailSent.danger==true" class="alert alert-danger alert-dismissible fade show" role="alert" style="z-index:9999;">
+        <strong>Uyarı</strong>  <div ng-repeat=" t in emailSent.dangerText.data.statusTexts"> {{t}}.</div>
+
+        <button ng-click="emailSent.danger=false;" type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+   
+    <table class="table table-hover" >
+
+        <div class="input-group flex-nowrap">
+            <input type="text" class="form-control" placeholder="E-Postalarda ara" ng-model="emailSent.form.search" ng-change="emailSent.multipleGet();" ng-model-options="{ debounce: 600 }">
+
+
+            <button class="btn border btn pirmary" title="E-Posta ekle" ng-click="emailSent.add();"><span> E-Posta Gönder  </span></button>
+        </div>
+        <div class="alert alert-primary mt-2" role="alert" ng-if="emailSent.list.length==0">
+            Henüz kayıt yok!
+        </div>
+        <thead ng-if="emailSent.list.length>0">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Başlık</th>
+                <th scope="col">İçerik</th>
+                <th scope="col">E-posta</th>
+                <th scope="col">Mail atılan kişi</th>
+                <th scope="col">Düzenle</th>
+            </tr>
+        </thead>
+        <tbody ng-if="emailSent.list.length>0">
+            <tr ng-repeat="d in emailSent.list">
+                <th>{{$index + 1}}</th>
+                <th>{{d.title}}</th>
+                <th>{{d.content}}</th>
+                <th>{{d.emailName}}</th>
+                <th>{{d.userName}}</th>
+                <th>
+                    <button ng-click="emailSent.delete(d.id);" class="btn btn-danger">Sil</button>
+                 
+                </th>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
+
+
+@* ekleme modalı *@
+<div class="modal fade" id="addEmailSentModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">E-Posta ekle</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="mb-3">
+                        <label for="recipient-name" class="col-form-label">Başlık:</label>
+                        <input ng-model="emailSent.form.title" type="text" class="form-control" id="recipient-name">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="message-text" class="col-form-label">İçerik (bu alana #isim şeklinde bıraktığınız etiketler seçilen kullanıcıların adı olarak mail atılır)</label>
+                        <textarea ng-model="emailSent.form.content" class="form-control" id="message-text"></textarea>
+                    </div>
+
+               @*      <div class="btn-group mb-3" ng-init="emails.multipleGet();" style="position: relative;">
+                        <button type="button" class="btn btn-primary dropdown-toggle form-control" data-bs-toggle="dropdown" aria-expanded="false" style="width: 460px;">
+                            <span ng-if="!emailSent.form.emalName">E-Posta seç</span>
+                            <span ng-if="emailSent.form.emalName">{{emailSent.form.emalName}}</span>
+                        </button>
+                        <ul class="dropdown-menu form-control" style="width: 460px; position: absolute; top: 100%;" aria-labelledby="dropdownMenuButton1">
+                            <li ng-repeat="e in emails.list">
+                                <a class="dropdown-item" href="#" ng-click="emailSent.form.eMailId = e.id; emailSent.form.emalName = e.serverName">
+                                    {{e.username}}
+                                </a>
+                            </li>
+                        </ul>
+                    </div> *@
+
+
+                    <div class="mb-2" ng-init="emails.multipleGet();">
+
+
+                        <span>E-Posta</span>
+
+
+                        <div type="button" class="dropdown-toggle btn btn-outline-primary  w-100 text-start" style="border-color:lightgray" data-bs-toggle="dropdown" aria-expanded="false">
+                            <span ng-if="!emailSent.form.emalName">E-Posta seç</span>
+                            <span ng-if="emailSent.form.emalName">{{emailSent.form.emalName}}</span>
+                        </div>
+
+                        <div class="dropdown-menu " style="width:90%;">
+                            <a class="dropdown-item  " href="javascript:;" ng-repeat="e in emails.list" ng-click="emailSent.form.eMailId = e.id; emailSent.form.emalName = e.username">
+                                {{e.username}}
+                            </a>
+                        </div>
+
+                    </div>
+
+                    <div class="mb-3" ng-init="users.multipleGet();">
+                    <label for="recipient-name" class="col-form-label">Gönderilecek kişleri seçin:</label>
+                        <input type="text" class="form-control mb-1" placeholder="Kişi ara" ng-model="users.form.search" ng-change="users.multipleGet();" ng-model-options="{ debounce: 600 }">
+                    <ul class="list-group" ng-repeat="d in users.list">
+                            <li class="list-group-item mb-1 "  >
+                                <input ng-click="emailSent.userListAdd(d.id);" class="form-check-input me-1 "  type="checkbox" value="" aria-label="...">
+                         {{d.name}}-{{d.email}}
+                        </li>
+                    </ul>
+                    </div>
+                </form>
+            </div>
+
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+                <button type="button" class="btn btn-primary" ng-click="emailSent.save();">kaydet</button>
+            </div>
+        </div>
+    </div>
+</div>

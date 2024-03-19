@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IkrC/81t0yp+fRTgVs/qGBwAJoAIcu2e0WqIovTFLBs=",
+  "Source": "EMailSendingApplicationApi",
+  "BasePath": "_content/EMailSendingApplicationApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

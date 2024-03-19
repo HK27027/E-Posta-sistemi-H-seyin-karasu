@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\H\u00FCseyin\\Desktop\\H\u00FCseyinkarasu-E-Posta Projesi\\EMailSendingApplicationApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F107AC26-73B1-4E1A-9522-38DD1DDD073C}|EMailSendingApplication.Web\\EMailSendingApplication.Web.csproj|c:\\users\\h\u00FCseyin\\desktop\\h\u00FCseyinkarasu-e-posta projesi\\emailsendingapplicationapi\\emailsendingapplication.web\\wwwroot\\js\\angular.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F107AC26-73B1-4E1A-9522-38DD1DDD073C}|EMailSendingApplication.Web\\EMailSendingApplication.Web.csproj|solutionrelative:emailsendingapplication.web\\wwwroot\\js\\angular.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC2B5FA-8D48-4FBB-B5E0-1292F7F41F31}|EMailSendingApplicationApi\\EMailSendingApplicationApi.csproj|c:\\users\\h\u00FCseyin\\desktop\\h\u00FCseyinkarasu-e-posta projesi\\emailsendingapplicationapi\\emailsendingapplicationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DAC2B5FA-8D48-4FBB-B5E0-1292F7F41F31}|EMailSendingApplicationApi\\EMailSendingApplicationApi.csproj|solutionrelative:emailsendingapplicationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F107AC26-73B1-4E1A-9522-38DD1DDD073C}|EMailSendingApplication.Web\\EMailSendingApplication.Web.csproj|c:\\users\\h\u00FCseyin\\desktop\\h\u00FCseyinkarasu-e-posta projesi\\emailsendingapplicationapi\\emailsendingapplication.web\\views\\home\\emails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F107AC26-73B1-4E1A-9522-38DD1DDD073C}|EMailSendingApplication.Web\\EMailSendingApplication.Web.csproj|solutionrelative:emailsendingapplication.web\\views\\home\\emails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F107AC26-73B1-4E1A-9522-38DD1DDD073C}|EMailSendingApplication.Web\\EMailSendingApplication.Web.csproj|c:\\users\\h\u00FCseyin\\desktop\\h\u00FCseyinkarasu-e-posta projesi\\emailsendingapplicationapi\\emailsendingapplication.web\\views\\home\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F107AC26-73B1-4E1A-9522-38DD1DDD073C}|EMailSendingApplication.Web\\EMailSendingApplication.Web.csproj|solutionrelative:emailsendingapplication.web\\views\\home\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F107AC26-73B1-4E1A-9522-38DD1DDD073C}|EMailSendingApplication.Web\\EMailSendingApplication.Web.csproj|c:\\users\\h\u00FCseyin\\desktop\\h\u00FCseyinkarasu-e-posta projesi\\emailsendingapplicationapi\\emailsendingapplication.web\\views\\home\\emailsent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F107AC26-73B1-4E1A-9522-38DD1DDD073C}|EMailSendingApplication.Web\\EMailSendingApplication.Web.csproj|solutionrelative:emailsendingapplication.web\\views\\home\\emailsent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2748,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "angular.js",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\Desktop\\H\u00FCseyinkarasu-E-Posta Projesi\\EMailSendingApplicationApi\\EMailSendingApplication.Web\\wwwroot\\js\\angular.js",
+              "RelativeDocumentMoniker": "EMailSendingApplication.Web\\wwwroot\\js\\angular.js",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\Desktop\\H\u00FCseyinkarasu-E-Posta Projesi\\EMailSendingApplicationApi\\EMailSendingApplication.Web\\wwwroot\\js\\angular.js",
+              "RelativeToolTip": "EMailSendingApplication.Web\\wwwroot\\js\\angular.js",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-17T13:44:03.271Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\Desktop\\H\u00FCseyinkarasu-E-Posta Projesi\\EMailSendingApplicationApi\\EMailSendingApplicationApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EMailSendingApplicationApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\Desktop\\H\u00FCseyinkarasu-E-Posta Projesi\\EMailSendingApplicationApi\\EMailSendingApplicationApi\\appsettings.json",
+              "RelativeToolTip": "EMailSendingApplicationApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T19:17:27.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\Desktop\\H\u00FCseyinkarasu-E-Posta Projesi\\EMailSendingApplicationApi\\EMailSendingApplication.Web\\Views\\Home\\Users.cshtml",
+              "RelativeDocumentMoniker": "EMailSendingApplication.Web\\Views\\Home\\Users.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\Desktop\\H\u00FCseyinkarasu-E-Posta Projesi\\EMailSendingApplicationApi\\EMailSendingApplication.Web\\Views\\Home\\Users.cshtml",
+              "RelativeToolTip": "EMailSendingApplication.Web\\Views\\Home\\Users.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T19:03:17.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailSent.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\Desktop\\H\u00FCseyinkarasu-E-Posta Projesi\\EMailSendingApplicationApi\\EMailSendingApplication.Web\\Views\\Home\\EmailSent.cshtml",
+              "RelativeDocumentMoniker": "EMailSendingApplication.Web\\Views\\Home\\EmailSent.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\Desktop\\H\u00FCseyinkarasu-E-Posta Projesi\\EMailSendingApplicationApi\\EMailSendingApplication.Web\\Views\\Home\\EmailSent.cshtml",
+              "RelativeToolTip": "EMailSendingApplication.Web\\Views\\Home\\EmailSent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T19:03:16.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Emails.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\Desktop\\H\u00FCseyinkarasu-E-Posta Projesi\\EMailSendingApplicationApi\\EMailSendingApplication.Web\\Views\\Home\\Emails.cshtml",
+              "RelativeDocumentMoniker": "EMailSendingApplication.Web\\Views\\Home\\Emails.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\Desktop\\H\u00FCseyinkarasu-E-Posta Projesi\\EMailSendingApplicationApi\\EMailSendingApplication.Web\\Views\\Home\\Emails.cshtml",
+              "RelativeToolTip": "EMailSendingApplication.Web\\Views\\Home\\Emails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T19:03:15.881Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.InAndOutModels\bin\Debug\net8.0\EMailSending.InAndOutModels.deps.json
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.InAndOutModels\bin\Debug\net8.0\EMailSending.InAndOutModels.runtimeconfig.json
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.InAndOutModels\bin\Debug\net8.0\EMailSending.InAndOutModels.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.InAndOutModels\bin\Debug\net8.0\EMailSending.InAndOutModels.pdb
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.InAndOutModels\obj\Debug\net8.0\EMailSending.InAndOutModels.csproj.AssemblyReference.cache
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.InAndOutModels\obj\Debug\net8.0\EMailSending.InAndOutModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.InAndOutModels\obj\Debug\net8.0\EMailSending.InAndOutModels.AssemblyInfoInputs.cache
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.InAndOutModels\obj\Debug\net8.0\EMailSending.InAndOutModels.AssemblyInfo.cs
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.InAndOutModels\obj\Debug\net8.0\EMailSending.InAndOutModels.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.InAndOutModels\obj\Debug\net8.0\EMailSending.InAndOutModels.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.InAndOutModels\obj\Debug\net8.0\refint\EMailSending.InAndOutModels.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.InAndOutModels\obj\Debug\net8.0\EMailSending.InAndOutModels.pdb
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.InAndOutModels\obj\Debug\net8.0\EMailSending.InAndOutModels.genruntimeconfig.cache
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.InAndOutModels\obj\Debug\net8.0\ref\EMailSending.InAndOutModels.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.InAndOutModels\bin\Debug\net8.0\EMailSending.InAndOutModels.deps.json
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.InAndOutModels\bin\Debug\net8.0\EMailSending.InAndOutModels.runtimeconfig.json
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.InAndOutModels\bin\Debug\net8.0\EMailSending.InAndOutModels.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.InAndOutModels\bin\Debug\net8.0\EMailSending.InAndOutModels.pdb
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.InAndOutModels\obj\Debug\net8.0\EMailSending.InAndOutModels.csproj.AssemblyReference.cache
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.InAndOutModels\obj\Debug\net8.0\EMailSending.InAndOutModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.InAndOutModels\obj\Debug\net8.0\EMailSending.InAndOutModels.AssemblyInfoInputs.cache
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.InAndOutModels\obj\Debug\net8.0\EMailSending.InAndOutModels.AssemblyInfo.cs
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.InAndOutModels\obj\Debug\net8.0\EMailSending.InAndOutModels.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.InAndOutModels\obj\Debug\net8.0\EMailSending.InAndOutModels.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.InAndOutModels\obj\Debug\net8.0\refint\EMailSending.InAndOutModels.dll
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.InAndOutModels\obj\Debug\net8.0\EMailSending.InAndOutModels.pdb
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.InAndOutModels\obj\Debug\net8.0\EMailSending.InAndOutModels.genruntimeconfig.cache
+C:\Users\Hüseyin\Desktop\Hüseyinkarasu-E-Posta Projesi\EMailSendingApplicationApi\EMailSending.InAndOutModels\obj\Debug\net8.0\ref\EMailSending.InAndOutModels.dll

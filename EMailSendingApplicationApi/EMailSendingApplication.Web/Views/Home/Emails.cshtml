@@ -1,0 +1,124 @@
+﻿<div ng-init="account.loginControl();emails.multipleGet();" style="margin-top: 100px;" class="text-center">
+    <div ng-if="emails.danger==true" class="alert alert-danger alert-dismissible fade show" role="alert" style="z-index:9999;">
+        <strong>Uyarı</strong>  <div ng-repeat=" t in emails.dangerText.data.statusTexts"> {{t}}.</div>
+
+        <button ng-click="emails.danger=false;" type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+   
+    <table class="table table-hover" >
+
+        <div class="input-group flex-nowrap">
+            <input type="text" class="form-control" placeholder="E-Posta ara" ng-model="emails.form.search" ng-change="emails.multipleGet();" ng-model-options="{ debounce: 600 }">
+
+
+            <button class="btn border btn pirmary" title="E-Posta ekle" ng-click="emails.add();"><span> E-Posta ekle  </span></button>
+        </div>
+        <div class="alert alert-primary mt-2" role="alert" ng-if="emails.list.length==0">
+            Henüz kayıt yok!
+        </div>
+        <thead ng-if="emails.list.length>0">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Hesap ismi</th>
+                <th scope="col">Server</th>
+                <th scope="col">Port</th>
+                <th scope="col">Şifre</th>
+                <th scope="col">Düzenle</th>
+            </tr>
+        </thead>
+        <tbody ng-if="emails.list.length>0">
+            <tr ng-repeat="d in emails.list">
+                <th>{{$index + 1}}</th>
+                <th>{{d.username}}</th>
+                <th>{{d.serverName}}</th>
+                <th>{{d.portNumber}}</th>
+                <th>{{d.password}}</th>
+                <th>
+                    <button ng-click="emails.delete(d.id);" class="btn btn-danger">Sil</button>
+                    <button ng-click="emails.singleGet(d.id);" class="btn btn-success">Güncelle</button>
+                </th>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+
+<!--güncelleme Modalı -->
+<div class="modal fade" id="emailModalupdate" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">E-Posta Düzenle</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form id="modalForm" ng-repeat="d in emails.data">
+                    <div class="form-group">
+                        <label for="name">Kullanıcı adı</label>
+                        <input type="text" ng-model="d.username" class="form-control" id="name" name="name" placeholder="Kullanıcı adı Giriniz">
+                    </div>
+                
+                    <div class="form-group">
+                        <label for="email">Port numarası</label>
+                        <input type="text" ng-model="d.portNumber" class="form-control" id="email" name="email" placeholder="Port numarası giriniz">
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Server ismi</label>
+                        <input type="text" ng-model="d.serverName" class="form-control" id="email" name="email" placeholder="Server ismi giriniz">
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Şifre</label>
+                        <input type="text" ng-model="d.password" class="form-control" id="email" name="email" placeholder="Şifre giriniz">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+                <button type="button" class="btn btn-primary" ng-click="emails.update();">Güncelle</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@* ekleme modalı *@
+<div class="modal fade" id="addModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">E-Posta ekle</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form id="modalForm">
+                    <div class="form-group">
+                        <label for="name">Kullanıcı adı</label>
+                        <input type="text" ng-model="emails.form.username" class="form-control" id="name" name="name" placeholder="Kullanıcı adı Giriniz">
+                    </div>
+                  
+                    <div class="form-group">
+                        <label for="email">Port numarası</label>
+                        <input type="text" ng-model="emails.form.portNumber" class="form-control" id="email" name="email" placeholder="Port numarası giriniz">
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Server ismi</label>
+                        <input type="text" ng-model="emails.form.serverName" class="form-control" id="email" name="email" placeholder="Server ismi giriniz">
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Şifre</label>
+                        <input type="text" ng-model="emails.form.password" class="form-control" id="email" name="email" placeholder="Şifre giriniz">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+                <button type="button" class="btn btn-primary" ng-click="emails.save();">kaydet</button>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,14 @@
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Enums\bin\Debug\net8.0\EMailSending.Enums.deps.json
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Enums\bin\Debug\net8.0\EMailSending.Enums.runtimeconfig.json
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Enums\bin\Debug\net8.0\EMailSending.Enums.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Enums\bin\Debug\net8.0\EMailSending.Enums.pdb
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Enums\obj\Debug\net8.0\EMailSending.Enums.csproj.AssemblyReference.cache
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Enums\obj\Debug\net8.0\EMailSending.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Enums\obj\Debug\net8.0\EMailSending.Enums.AssemblyInfoInputs.cache
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Enums\obj\Debug\net8.0\EMailSending.Enums.AssemblyInfo.cs
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Enums\obj\Debug\net8.0\EMailSending.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Enums\obj\Debug\net8.0\EMailSending.Enums.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Enums\obj\Debug\net8.0\refint\EMailSending.Enums.dll
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Enums\obj\Debug\net8.0\EMailSending.Enums.pdb
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Enums\obj\Debug\net8.0\EMailSending.Enums.genruntimeconfig.cache
+C:\Users\Hüseyin\source\repos\EMailSendingApplicationApi\EMailSending.Enums\obj\Debug\net8.0\ref\EMailSending.Enums.dll
